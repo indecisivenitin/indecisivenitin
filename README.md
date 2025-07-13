@@ -14,6 +14,7 @@
 <a href="https://swiperjs.com/get-started" target="_blank" rel="noreferrer"><img src="https://swiperjs.com/images/swiper-logo.svg" width="36" height="36" alt="Java Script Library Swiper JS" /></a>     
 <a href="https://github.com/locomotivemtl/locomotive-scroll" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1923096?s=200&v=4" width="36" height="36" alt="Java Script Library Locomotive JS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.QrPtMU6HdIU8yBwruNkEbA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="TailWind CSS" /></a>
+<a href="www.figma.com" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width="36" height="36" alt="Figma" /></a>
  
 <!--   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> -->
 <!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
