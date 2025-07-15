@@ -16,6 +16,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.QrPtMU6HdIU8yBwruNkEbA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="TailWind CSS" /></a>
 <a href="www.figma.com" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width="36" height="36" alt="Figma" /></a>
 <a href="https://www.geeksforgeeks.org/reactjs/reactjs-jsx-introduction/"><img src="https://tse1.mm.bing.net/th/id/OIP._jBXX6OMBGK6RFgvonJR7AHaEG?rs=1&pid=ImgDetMain&o=7&rm=3" width="36" height="36" alt="JSX" /></a>
+<a href="https://react.dev"><img src="https://th.bing.com/th/id/ODF.WVqpYB98BuIyEsGMfbei5Q?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="React JS" /></a>
  
 <!--   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> -->
 <!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
