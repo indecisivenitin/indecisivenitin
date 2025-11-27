@@ -1,4 +1,4 @@
-<img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/> -->
 
 # Hi 👋, I am Nitin!
 
