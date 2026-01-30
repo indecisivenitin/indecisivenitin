@@ -5,7 +5,7 @@
 ### 💻 Tech Skills
 
 <p align="left">
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y+mAAAAclBMVEVHcEwAesEPj9gkq/UKhMsAgsoAebsAbbAmtPUiqPIOjtUAeLoAe8IlsPMjqPIAdrgAfMMAi9MAjtUAaK0AfcMkrPMAjdUAb7MAdLYAitMjqfIAfMoAhdEAZqsAgM8hpfIAgM8Dg9EgofIAdMggn/AAcMcJFOONAAAAJHRSTlMAjPGdFrz///+6Jt0I/4j/QZf/+mX/45///////+P//93+//Rp+cbUAAAA80lEQVR4AX3TRQLDMAxE0Qm6YWam+1+xspUyfC1fODa+pOmGiR9ZtrhcHPerebbEr+yTEQYBcfhmJhGj7NVcZdETuneL7egNk1Q/OY7OshPJqFxaHtlsHgoORJQFaNGZhjvGrGUlai7GA+E2VNqkkVLPB9VyAEyp5J0QdQW8IvySuc9ifOLQN9wnmkJkI51HNQnjxAGuqEk7Iumzr7BVg1iohqQ/i5/OZKsA7abaAytp/Pn6fqTplxnTqobOEJkJVTyebdO6rvu0v/4yOlN20Fk7HYCXXBLGXQ5eM6V1x7Sr8N4scVUW4lM7xu8r1yJk+rsdrslQJWvXo+KOAAAAAElFTkSuQmCC" width="36" height="36" alt="VS Code" /></a>
+<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" width="36" height="36" alt="VS Code" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
 <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
