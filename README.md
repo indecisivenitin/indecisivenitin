@@ -15,7 +15,7 @@
 <a href="https://github.com/locomotivemtl/locomotive-scroll" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1923096?s=200&v=4" width="36" height="36" alt="Java Script Library Locomotive JS" /></a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.QrPtMU6HdIU8yBwruNkEbA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="TailWind CSS" /></a>
 <a href="www.figma.com" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width="36" height="36" alt="Figma" /></a>
-<a href="https://www.geeksforgeeks.org/reactjs/reactjs-jsx-introduction/"><img src="https://tse1.mm.bing.net/th/id/OIP._jBXX6OMBGK6RFgvonJR7AHaEG?rs=1&pid=ImgDetMain&o=7&rm=3" width="36" height="36" alt="JSX" /></a>
+<!-- <a href="https://www.geeksforgeeks.org/reactjs/reactjs-jsx-introduction/"><img src="https://tse1.mm.bing.net/th/id/OIP._jBXX6OMBGK6RFgvonJR7AHaEG?rs=1&pid=ImgDetMain&o=7&rm=3" width="36" height="36" alt="JSX" /></a> -->
 <a href="https://react.dev"><img src="https://th.bing.com/th/id/ODF.WVqpYB98BuIyEsGMfbei5Q?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="React JS" /></a>
 
 <a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373553/docker.svg" width="90" height="75" alt="Docker" /></a>
