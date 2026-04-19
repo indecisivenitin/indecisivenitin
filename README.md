@@ -1,35 +1,81 @@
-<!-- <img src="https://komarev.com/ghpvc/?username=xStephx&color=red"/> -->
+<!-- PROFILE HEADER -->
+<h1 align="center">Hi 👋, I'm Nitin</h1>
+<h3 align="center">Frontend Developer • React • Next.js • UI/UX Focused</h3>
 
-# Hi 👋, I am Nitin!
+<p align="center">
+  Building clean, modern and high-performance web experiences.
+</p>
 
-### 💻 Tech Skills
+<p align="center">
+  <a href="https://github.com/indecisivenitin">
+    <img src="https://komarev.com/ghpvc/?username=indecisivenitin&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
+
+---
 
 
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=0OQR1FYCuA9f&format=png" width="36" height="36" alt="VS Code" /></a>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="36" height="36" alt="Git" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
-<a href="https://www.javascripttutorial.net/" target="_blank" rel="noreferrer"><img src="https://www.javascripttutorial.net/wp-content/uploads/2021/04/JavaScript-Tutorial.svg" width="36" height="36" alt="Java Script" /></a>
-<a href="https://gsap.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.b2x8rOwsfVIFdnAXlAXP1g?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="Java Script Library GSAP" /></a>
-<a href="https://swiperjs.com/get-started" target="_blank" rel="noreferrer"><img src="https://swiperjs.com/images/swiper-logo.svg" width="36" height="36" alt="Java Script Library Swiper JS" /></a>     
-<a href="https://github.com/locomotivemtl/locomotive-scroll" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/1923096?s=200&v=4" width="36" height="36" alt="Java Script Library Locomotive JS" /></a>
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.QrPtMU6HdIU8yBwruNkEbA?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="TailWind CSS" /></a>
-<a href="www.figma.com" target="_blank" rel="noreferrer"><img src="https://th.bing.com/th/id/ODF.1inOPFxES_vq1HmkeJGrxQ?w=32&h=32&qlt=90&pcl=fffffa&o=6&pid=1.2" width="36" height="36" alt="Figma" /></a>
-<!-- <a href="https://www.geeksforgeeks.org/reactjs/reactjs-jsx-introduction/"><img src="https://tse1.mm.bing.net/th/id/OIP._jBXX6OMBGK6RFgvonJR7AHaEG?rs=1&pid=ImgDetMain&o=7&rm=3" width="36" height="36" alt="JSX" /></a> -->
-<a href="https://react.dev"><img src="https://th.bing.com/th/id/ODF.WVqpYB98BuIyEsGMfbei5Q?w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" width="36" height="36" alt="React JS" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/439022/typescript.svg" width="65" height="50" alt="TypeScript" /></a>
- <a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://img.icons8.com/?size=48&id=yUdJlcKanVbh&format=png" width="65" height="65" alt="NextJS"/></a>
-<a href="https://docker.com/" target="_blank" rel="noreferrer"><img src="https://www.svgrepo.com/show/373553/docker.svg" width="90" height="75" alt="Docker" /></a>
- 
-<!--   <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a> -->
-<!--   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a> -->
-<!--   <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="36" height="36" alt="Sass" /></a> -->
+## 🛠️ Tech Stack
 
-<br>
+<p align="center">
 
-[![](https://quotes-github-readme.vercel.app/api?quote=Everything%20happens%20for%20a%20reason.&border=true&type=horizontal&author=Unknown&theme=dark)](https://github.com/indecisivenitin) 
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode,docker" />
 
-<!---
-indecisivenitin/indecisivenitin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=indecisivenitin&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=indecisivenitin&layout=compact&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=indecisivenitin&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/nitin-yadav-21b125330/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="https://x.com/inde_nitin">
+<img src="https://skillicons.dev/icons?i=twitter" />
+</a>
+
+<a href="mailto:nitinyadav.works@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+</p>
+
+---
+
+## ✨ Quote of the Day
+
+<p align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</p>
+
+---
+
+<p align="center">
+⚡ <i>Everything happens for a reason.</i>
+</p>
