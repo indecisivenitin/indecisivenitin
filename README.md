@@ -15,13 +15,11 @@ Crafting modern, clean & smooth web experiences.
 ## 🛠️ Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode,docker,nodejs,express,mongodb,mysql,postgres" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode,docker,nodejs,express,mongodb,mysql,postgres,github" />
+  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" />
+
 </p>
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" />
-</p>
 
 ---
 
