@@ -16,7 +16,7 @@ Crafting modern, clean & smooth web experiences.
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,figma,git,vscode,docker,nodejs,express,mongodb,mysql,postgres,github" />
-  <img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" />
+  <p align="center><img src="https://cdn.worldvectorlogo.com/logos/gsap-greensock.svg" width="48" /></p>
 
 </p>
 
